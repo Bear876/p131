@@ -1,0 +1,19 @@
+body{
+    font-size:20px;
+    background-position: center;
+    background-size:cover;
+}
+.heading{
+font-size:30px;
+}
+.anchor{
+    width:300px;
+    Margin:10px;
+    background:rgb(197, 251, 183);
+    border-radius:15px;
+    
+
+}
+ul{
+    list-style-type: none;
+}
